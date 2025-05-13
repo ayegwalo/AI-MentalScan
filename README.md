@@ -47,9 +47,8 @@ Important considerations:
 * Language and cultural context must be accounted for to avoid misinterpretation.
 * Alerts must be respectful, non-alarming, and designed to encourage support.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat]<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+![Cat]
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 
 Code sample:
