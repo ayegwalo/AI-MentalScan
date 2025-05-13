@@ -111,4 +111,4 @@ High privacy and security requirements for sensitive data
 * Inspired by the growing mental health crisis among teens during the pandemic.
 * Thanks to researchers behind the CLPsych shared tasks and sentiment analysis tools.
 * Sentiment models adapted from Hugging Face open-source libraries.
-* Image - [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* Image - [Wellbeing and Mental Health](https://www.weforum.org/stories/2020/05/this-is-why-we-need-to-change-our-approach-to-young-peoples-mental-health/) / [CC BY 2.0](https://www.who.int/teams/mental-health-and-substance-use/promotion-prevention/unicef-and-who-joint-programme-on-mental-health-and-psychosocial-well-being-and-development-of-children-and-adolescents)
