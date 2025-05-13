@@ -69,8 +69,8 @@ print(result)
 ## Data sources and AI methods
 Data sources and AI methods
 The project uses publicly available or consented datasets such as:
-* [CLPsych 2015 dataset] (https://aclanthology.org/W15-1204/)
-* [Twitter API] (https://docs.x.com/home)
+* [CLPsych 2015 dataset](https://aclanthology.org/W15-1204/)
+* [Twitter API](https://docs.x.com/home)
 * Public datasets from Reddit mental health communities
 
 AI Methods used:
