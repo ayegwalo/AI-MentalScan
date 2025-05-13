@@ -47,8 +47,8 @@ Important considerations:
 * Language and cultural context must be accounted for to avoid misinterpretation.
 * Alerts must be respectful, non-alarming, and designed to encourage support.
 
-<a href="https://assets.weforum.org/editor/pBeWpQjYEpMORy-xk-f9F5V1pb21tjYrfEVspUnxB74.JPG" target="_blank">
-  <img src="https://assets.weforum.org/editor/pBeWpQjYEpMORy-xk-f9F5V1pb21tjYrfEVspUnxB74.JPG" width="300">
+<a href="/mental_heatth.jpeg" target="_blank">
+  <img src="/mental_heatth.jpeg" width="400">
 </a>
 <p><em>Figure 1: Click image to view full-size version.</em></p>
 
