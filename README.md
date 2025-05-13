@@ -47,8 +47,7 @@ Important considerations:
 * Language and cultural context must be accounted for to avoid misinterpretation.
 * Alerts must be respectful, non-alarming, and designed to encourage support.
 
-![Cat]
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+[Cat] <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 
 Code sample:
@@ -70,8 +69,8 @@ print(result)
 ## Data sources and AI methods
 Data sources and AI methods
 The project uses publicly available or consented datasets such as:
-* ![CLPsych 2015 dataset] (https://aclanthology.org/W15-1204/)
-* ![Twitter API] (https://docs.x.com/home)
+* [CLPsych 2015 dataset] (https://aclanthology.org/W15-1204/)
+* [Twitter API] (https://docs.x.com/home)
 * Public datasets from Reddit mental health communities
 
 AI Methods used:
