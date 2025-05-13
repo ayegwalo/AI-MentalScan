@@ -47,7 +47,10 @@ Important considerations:
 * Language and cultural context must be accounted for to avoid misinterpretation.
 * Alerts must be respectful, non-alarming, and designed to encourage support.
 
-[Cat] <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+</a>
+<p><em>Figure 1: Click image to view full-size version.</em></p>
 
 
 Code sample:
